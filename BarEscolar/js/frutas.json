@@ -1,0 +1,94 @@
+[
+    {
+
+  "mombre": "agua",
+  "rutaImg":"img/agua.png",
+  "id": "1",
+  "puntaje": "25",
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+},
+    {
+    "mombre": "cake.png",
+   "rutaImg":"img/agua.png",
+  "id": "2",
+  "puntaje": "25",
+  "categoria": "chatarra",
+  "sonido": "sonido/audio2.mp3"
+ 
+    },
+
+    {
+    "mombre": "cola.png",
+    "rutaImg":"img/agua.png",
+  "id": "3",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio2.mp3"
+ 
+    },
+    
+    {
+    "mombre": "guineo.png",
+    "rutaImg":"img/agua.png",
+  "id": "4",
+  "puntaje": "50",
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "5",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "6",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "7",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "8",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "9",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    },
+        {
+    "mombre": "agua.png",
+    "rutaImg":"img/agua.png",
+  "id": "10",
+  "puntaje": 25,
+  "categoria": "chatarra",
+  "sonido": "sonido/audio1.mp3"
+ 
+    }
+ ]
